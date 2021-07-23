@@ -1,0 +1,68 @@
+p{
+	margin-left: 20%;
+	margin-top: 3%;
+}
+div{
+	margin-left: 20%;
+	margin-top: 10px;
+}
+h1{
+	margin-right: 20%;
+	margin-top: 5%;
+}
+h2{
+	margin-left: 11%;
+}
+
+body{
+  margin:0;
+  padding:0;
+  background:#ccc;
+}
+nav ul{
+  list-style:none;
+  background-color:#090C4E;
+  text-align: center;
+  padding:0;
+  margin: 0;
+}
+nav li{
+  width:15%;
+  border-right: 1px;
+  font-size: 140%;
+  display:inline-block;
+  
+}
+nav a{
+  text-decoration: none;
+  color:#F1C40F;
+  display:block;
+  padding-left: 0px;
+  transition:.5s background-color;
+  height: 40px;
+}
+nav a:hover{
+  background-color: black;
+}
+
+footer{
+    background:#090C4E;
+    color:#F1C40F; 
+    padding: 10px 0;
+    position: relative;
+    font-size: 25px;
+}
+.LI-profile-badge{
+  padding-left: 10%;
+  padding-right: 8%;
+  padding-bottom: 4%;
+ display: inline-block;
+}
+.team{
+  color:red;
+  font-size: 50px;
+  text-align: center;
+}
+.footer_logo{
+  text-align: center;
+}
